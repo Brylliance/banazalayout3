@@ -1,0 +1,42 @@
+body{
+    background-color: grey;
+    margin: 200px;
+    margin-top: 80px;
+    position: absolute;
+}
+h1{
+    font-family: impact, sans-serif;
+    font-size: 80px;
+    background-color: white;
+    margin-top: -50px;
+    margin-bottom: -90px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: -80px;
+    height: 200px;
+}
+h2{ 
+    font-family: impact, sans-serif;
+    font-size: 80px;
+    margin-top: -50px;
+    margin-bottom: -130px;
+    margin-left: 35px;
+    margin-right: 30px;
+    height: 200px;
+}
+.column1of2{ 
+    float: left;
+    width: 500px;
+    margin: 30px;
+    position: relative;
+}
+.column2of2{ 
+    float: left;
+    width: 300px;
+    margin: 30px;
+    position: relative;
+}
+img{ 
+    width: 300px;
+    height: 300px;
+    
