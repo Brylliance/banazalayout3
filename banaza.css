@@ -1,4 +1,5 @@
 body{
+    margin: 0;
     background-color: #9c0000;
 }
 .wrapper{
@@ -12,30 +13,37 @@ h1{
     max-width: 80%;
     padding-left: 10%;
     padding-right: 10%;
-    font-size: 30pt;
+    font-size: 40pt;
     margin-bottom: -15px;
     color: white;
+    position: fixed;
+    margin-top: 190px;
+    margin-left: 20px;
 }
 h2{
     font-size: 20pt;
     margin-bottom: -10px;
 }
 .column1of2{ 
-    max-width: 45%;
+    max-width: 60%;
     padding-right: 5%;
-    margin-top: 100px;
+    margin-top: 275px;
 }
 .column2of2{ 
-    max-width: 45%;
+    max-width: 20%;
     padding-left: 5%;
-    margin-top: 100px;
+    margin-top: 275px;
 }
 p{
     font-size: 17pt;
 }
 img{
-    width: 200px;
-    height: px;
+    width: 80%;
+    height: 300px;
+    position: fixed;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: -40px;
 }
 
     
